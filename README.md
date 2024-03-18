@@ -16,7 +16,7 @@ Outside of programming I like to game and take photographs.
 
 <!-- Image -->
 
-[user_logo_img]: ./src/assets/daniel-olah-6KQETG8J-zI-unsplash(1).jpg
+[user_logo_img]: ./src/assets/readme-banner.jpg
 [twitter_logo_img]: https://flat.badgen.net/badge/twitter/_pastc/black?icon=twitter&label
 [github_logo_img]: https://flat.badgen.net/badge/github/pastc/black?icon=github&label
 [gitlab_logo_img]: https://flat.badgen.net/badge/gitlab/paste/black?icon=gitlab&label
